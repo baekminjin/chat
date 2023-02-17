@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "995405643429",
+    "firebase_url": "https://chat-6f31f-default-rtdb.firebaseio.com",
+    "project_id": "chat-6f31f",
+    "storage_bucket": "chat-6f31f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995405643429:android:18cb3ba72bc23e4665174c",
+        "android_client_info": {
+          "package_name": "com.company.pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995405643429-kg3kncaonci3la8vdv4ad2bv0rgel2up.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8pmnwfERDM4rleITBNdIDMEokl1oGKQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995405643429-kg3kncaonci3la8vdv4ad2bv0rgel2up.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995405643429:android:3159d9f142b4144765174c",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995405643429-kg3kncaonci3la8vdv4ad2bv0rgel2up.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8pmnwfERDM4rleITBNdIDMEokl1oGKQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995405643429-kg3kncaonci3la8vdv4ad2bv0rgel2up.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995405643429:android:c5687b9c564da3b265174c",
+        "android_client_info": {
+          "package_name": "com.example.chattest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995405643429-kg3kncaonci3la8vdv4ad2bv0rgel2up.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8pmnwfERDM4rleITBNdIDMEokl1oGKQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995405643429-kg3kncaonci3la8vdv4ad2bv0rgel2up.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
