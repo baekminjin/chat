@@ -15,9 +15,8 @@ import java.util.List;
 public class ChatAdapter extends RecyclerView.Adapter<ChatAdapter.MyViewHolder> {
     private List<ChatData> mDataset;
     private String myNickName;
-
     public static class MyViewHolder extends RecyclerView.ViewHolder {
-        // each data item is just a string in this case
+
         public TextView TextView_nickname;
         public TextView TextView_msg;
         public View rootView;
@@ -68,7 +67,6 @@ public class ChatAdapter extends RecyclerView.Adapter<ChatAdapter.MyViewHolder> 
             holder.TextView_msg.setTextAlignment(View.TEXT_ALIGNMENT_TEXT_START);
             holder.TextView_nickname.setTextAlignment(View.TEXT_ALIGNMENT_TEXT_START);
         }
-
     }
 
 

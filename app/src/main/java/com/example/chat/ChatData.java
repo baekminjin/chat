@@ -1,12 +1,14 @@
 package com.example.chat;
 
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
 /**
  * Created by KPlo on 2018. 11. 3..
  */
 
 public class ChatData {
     private String msg;
-    private String nickname;
+    private String nickname= "";
 
     public String getMsg() {
         return msg;
