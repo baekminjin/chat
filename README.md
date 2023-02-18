@@ -15,7 +15,7 @@ ChatData에서  private String nickname;을 주목해야 한다.
 
 
 if(chat.getNickname().equals(this.myNickName)) {  chat.getNickname()이 null을반환하고 있을 것으로 보여
-getNickname의 메소드가 있는 ChatData
+getNickname의 메소드가 있는 ChatData 클래스를 보면
 private String nickname;
 
 public String getNickname() {
